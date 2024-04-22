@@ -1,0 +1,12 @@
+.featured-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.allJobbtn {
+    padding: 10px 20px;
+    margin: 30px 600px;
+}

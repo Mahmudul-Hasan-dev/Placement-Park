@@ -1,0 +1,35 @@
+.jobs{
+    border: 1px solid ;
+    padding: 40px 120px 40px 40px;
+}
+.job-type{
+    color: #917CFF;
+    border: 1px solid #917CFF ;
+    font-weight: bold;
+    padding: 9px 19px;
+}
+.items-inline{
+    display: flex;
+    align-items:center ;
+}
+.job-title{
+    font-size: 24px;
+    margin-bottom: 0px;
+ font-weight: bolder;
+    
+}
+.company-name{
+    font-size: 20px;
+    color:#757575;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+button a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+button a:hover{
+    color: black;
+}
