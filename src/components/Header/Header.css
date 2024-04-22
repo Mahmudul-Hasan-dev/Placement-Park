@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #F9F9FF;
+   
+}
+
+button{
+    background-color: #917CFF;
+    color: #ffffff;
+}
