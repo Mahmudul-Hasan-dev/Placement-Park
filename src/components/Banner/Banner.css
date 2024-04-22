@@ -1,0 +1,15 @@
+.banner{
+    background-color: #F9F9FF;
+    display: flex;
+    justify-content: space-between;
+}
+.banner-text{
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+
+.purple{
+    color: #917CFF;
+}
+ 
